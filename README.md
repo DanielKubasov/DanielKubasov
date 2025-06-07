@@ -1,4 +1,4 @@
-# Hello, I'm a **Fullstack engineer** 👋
+# Hello, I'm a **Backend engineer** 👋
 
 ### Technologies I use:
 
